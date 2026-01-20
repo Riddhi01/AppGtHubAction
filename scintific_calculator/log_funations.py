@@ -1,1 +1,1 @@
-print("Checking for cmerge conflict from mian branch")
+print("Checking for cmerge conflict from main branch")
