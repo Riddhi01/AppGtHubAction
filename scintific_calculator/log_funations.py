@@ -1,4 +1,2 @@
-print("Checking for cmerge conflict from main branch")
-print("Checking for cmerge conflict from demo branch")
-print()
-print("ABC")
+print("Checking for merge conflict from main branch")
+print("Checking for merge conflict from demo branch")
